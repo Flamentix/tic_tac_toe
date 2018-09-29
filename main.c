@@ -7,7 +7,7 @@
 
 // Goal: Add two-player mode
 
-int main() {
+int main(int argc, char* argv[]) {
 
   // Declare basic variables/functions
   char board[3][3] = { {' ', ' ', ' '}, {' ', ' ', ' '}, {' ', ' ', ' '} };
